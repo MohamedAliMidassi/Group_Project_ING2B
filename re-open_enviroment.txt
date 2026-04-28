@@ -1,0 +1,16 @@
+C:\Users\moham\.virtualenvs\Projet-FnYqDwgW\Scripts\activate
+
+Django Admin :
+name:medali
+e-mail: medali@gmail.com
+Password: Azerty123.
+medali
+medali2
+ahmed
+mariem
+mariem2
+password Test123.
+
+front
+client@test.com   1234
+coach@test.com 1234

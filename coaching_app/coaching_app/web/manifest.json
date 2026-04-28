@@ -1,0 +1,12 @@
+{
+    "name": "CoachHub",
+    "short_name": "CoachHub",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1A1A2E",
+    "theme_color": "#1A1A2E",
+    "description": "CoachHub - Professional Coaching Platform",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": []
+}
